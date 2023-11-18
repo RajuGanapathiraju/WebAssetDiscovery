@@ -7,17 +7,17 @@ How to Use
 
 1. Clone the repository:
 
-git clone https://github.com/your-username/your-repository.git
+   git clone https://github.com/your-username/your-repository.git
 
-cd your-repository
+   cd your-repository
 
 2. Install the required Node.js packages:
 
-npm install
+   npm install
 
 3. Run the tool:
 
-node your-script-name.js
+   node your-script-name.js
 
 4. Enter the domain name when prompted.
 
