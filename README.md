@@ -30,6 +30,7 @@ Asynchronous processing for faster execution.
 Dependencies
 
 subfinder: Make sure to have subfinder installed and available in your system's PATH.
+
 Node.js: Make sure to have Node.js installed to run the script.
 
 
