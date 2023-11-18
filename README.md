@@ -41,6 +41,7 @@ Total subdomains identified - 42
  
 
 subdomain1.example.com [200]    1
+
 subdomain2.example.com [404]    2
 ...
 
