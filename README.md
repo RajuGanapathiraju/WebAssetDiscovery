@@ -32,27 +32,6 @@ Dependencies
 subfinder: Make sure to have subfinder installed and available in your system's PATH.
 Node.js: Make sure to have Node.js installed to run the script.
 
-Example Output
-
-Enter the domain name: example.com
-
-Total subdomains identified - 42
-
- [subdomain1.example.com, subdomain2.example.com, ...]
- 
-
-subdomain1.example.com [200]    1
-
-subdomain2.example.com [404]    2
-...
-
-List of web assets - [42]
-
- [
-   { url: 'subdomain1.example.com', statusCode: 200 },
-   { url: 'subdomain2.example.com', statusCode: 404 },
-   ...
- ]
 
 Notes
 
